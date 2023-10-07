@@ -5,7 +5,6 @@ public class MazeLevel01 {
     public MazeLevel01(char[][] a, int r, int c) {
     m = a;
     x = r;
-    y = c;
     }
     
     public void display() {
