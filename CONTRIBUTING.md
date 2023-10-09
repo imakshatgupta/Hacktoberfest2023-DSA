@@ -41,8 +41,3 @@ git commit -m "Relevant message"
 git push origin my-new-branch
 ```
 
-
-- Create a new pull request from your forked repository
-
-<br>
-
